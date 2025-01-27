@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+numpy<2
+matplotlib
+seaborn
+openai==0.28
+chromadb
+transformers
+sentence-transformers
+duckdb
+sqlalchemy
